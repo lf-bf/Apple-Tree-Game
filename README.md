@@ -38,9 +38,10 @@ You can simply hit the play button that the simulator will automatically be laun
 <img src="/files/acerto.gif" style="width:500px;"/>
 <br>
 ** **
+
 - When missing one word, the game will subtract -1 point to the total, and when all the apples have fallen, -5 points will be subtracted... 
 <br>
-<img src="/files/acerto.gif" style="width:500px;"/>
+<img src="/files/erro.gif" style="width:500px;"/>
 <br>
 
   
