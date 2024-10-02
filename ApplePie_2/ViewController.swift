@@ -7,7 +7,7 @@
 
 import UIKit
 
-var listOfWorlds = ["buccaneer", "swift", "glorious", "incandescent", "bug", "program"]
+var listOfWorlds = ["actions", "swift", "view", "outlets", "bug", "program"]
 
 let incorrectMovesAllowed = 7
 
