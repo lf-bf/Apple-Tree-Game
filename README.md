@@ -3,12 +3,9 @@ This game was developed as part of the 'Develop in Swift Essentials' course. The
 
 **Objective**: Try to guess the correct word and make as many points as possible while preventing apples from falling off the tree. Each incorrect guess causes an apple to drop.
 ## Table of Contents
-
 - [Apple Tree - A Swift Programming Hangman Game](#apple-tree---a-swift-programming-hangman-game)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
-    - [1. Clone the repository: {ignore=true}](#1-clone-the-repository-ignoretrue)
-      - [or Clone the repository directly:](#or-clone-the-repository-directly)
   - [Usage](#usage)
     - [1. Running the game](#1-running-the-game)
     - [2. Interface:](#2-interface)
